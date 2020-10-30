@@ -1,6 +1,6 @@
 {
     "name": "TextInputWidget",
-    "version": "1.0.15",
+    "version": "1.0.16",
     "icon": "fas fa-keyboard",
     "category": "automation",
     "author": "philipp2310",
